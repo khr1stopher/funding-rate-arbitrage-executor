@@ -1,0 +1,4 @@
+name = "bot_funding_arbitrage"
+
+[triggers]
+crons = ["50 * * * *"]
